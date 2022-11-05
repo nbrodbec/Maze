@@ -1,0 +1,8 @@
+[package]
+name = "coffe/maze"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+gameanalytics-sdk = "gameanalytics/gameanalytics-sdk@2.2.2"
